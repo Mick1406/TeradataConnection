@@ -1,4 +1,4 @@
 # TeradataConnection
 Example of python script for connecting to Teradata using DSN 
 ## WARNING
-Depreciated code snippet
+User login and password stored in an external file
